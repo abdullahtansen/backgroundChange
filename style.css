@@ -1,0 +1,28 @@
+.dark-bg{
+    background-color: black;
+    color: white;
+    font-size: 24px;
+    word-spacing: 10px;
+    line-height: 2;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 15px;
+}
+.green-bg{
+    background-color: green;
+    color: white;
+    font-size: 24px;
+    line-height: 2;
+    word-spacing: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 15px;
+}
+button{
+    cursor: pointer;
+    font-size: 24px;
+    padding: 20px;
+    background-color: cyan;
+    color: black;
+    font-weight: 700;
+    word-spacing: 2px;
+    font-family:'Courier New', Courier, monospace;
+}
